@@ -11,8 +11,5 @@
   "repository": {
     "url": "github:cammarin/dummy-monorepo",
     "directory": "packages/another-dummy-monorepo-package"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
